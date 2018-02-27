@@ -1,5 +1,21 @@
 .main {
-  display: block;
-  width: 900px;
+
+}
+
+.logo {
   margin: 0 auto;
+  width: 272px;
+}
+
+.search {
+  margin: 0 auto;
+  width: 400px;
+}
+
+input {
+  width: 500px;
+  padding 10px;
+  display: block;
+  height: 34px;
+  box-shadow: 0 2px 2px 0 grey;
 }
